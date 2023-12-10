@@ -347,6 +347,8 @@ html,body{
     width: 100%;
     height: 100%;
     object-fit: cover;
+    object-position: 0px -140px;
+
   }
 
 .div-row{
@@ -522,7 +524,7 @@ html,body{
     .prim-img{
         width: 90%;
         height: 50%;
-        background:url(https://gelakifootwear.com/rootpure/assets/img/product/product1.jpg);
+        background:url(https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/21zyimXhvSL._SX300_SY300_QL70_FMwebp_.jpg);
        background-size: cover;
        background-position: 0 0;
         padding-top: 0px;
@@ -533,7 +535,7 @@ html,body{
 
 
        &:hover{
-        background: url(https://gelakifootwear.com/rootpure/assets/img/product/product2.jpg);
+        background: url(https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/51fOZIb2T3L._AC_UF1000,1000_QL80_.jpg);
         background-size: cover;
         background-position: 0 0;
       }
@@ -541,7 +543,7 @@ html,body{
   }
 
  .owl-stage #c1{
-    background:url(https://gelakifootwear.com/rootpure/assets/img/product/product3.jpg);
+    background:url(https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/51fOZIb2T3L._AC_UF1000,1000_QL80_.jpg);
     background-size: cover;
     background-position: 0 0;
 
@@ -554,33 +556,33 @@ html,body{
 
   }
  .owl-stage #c2{
-    background:url(https://gelakifootwear.com/rootpure/assets/img/product/product5.jpg);
+    background:url(https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/61SSVxTSs3L._SL1500_.jpg);
     background-size: cover;
     background-position: 0 0;
 
     
     &:hover{
-        background: url(https://gelakifootwear.com/rootpure/assets/img/product/product6.jpg);
+        background: url(https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/61SWUhb54gL._SL1500_.jpg);
         background-size: cover;
         background-position: 0 0;
       }
 
   }
  .owl-stage #c3{
-    background:url(https://gelakifootwear.com/rootpure/assets/img/product/product7.jpg);
+    background:url(https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/51WUHlne1FL._SX679_.jpg);
     background-size: cover;
     background-position: 0 0;
 
     
     &:hover{
-        background: url(https://gelakifootwear.com/rootpure/assets/img/product/product8.jpg);
+        background: url(https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/51WUHlne1FL._SX679_.jpg);
         background-size: cover;
         background-position: 0 0;
       }
 
   }
  .owl-stage #c4{
-    background:url(https://gelakifootwear.com/rootpure/assets/img/product/product9.jpg);
+    background:url(https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/41nlVXgxRSL._SX300_SY300_QL70_FMwebp_.jpg);
     background-size: cover;
     background-position: 0 0;
 
@@ -593,13 +595,13 @@ html,body{
 
   }
  .owl-stage #c5{
-    background:url(https://gelakifootwear.com/rootpure/assets/img/product/product11.jpg);
+    background:url(https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/613l2kLVCRL._SX679_.jpg);
     background-size: cover;
     background-position: 0 0;
 
     
     &:hover{
-        background: url(https://gelakifootwear.com/rootpure/assets/img/product/product12.jpg);
+        background: url(https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/61IcVnl1hdL._SX679_.jpg);
         background-size: cover;
         background-position: 0 0;
       }
@@ -750,6 +752,12 @@ html,body{
         border: 1.5px solid #49b746;
     }
 
+}
+.single-product img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
 }
 
   .feature-list{
